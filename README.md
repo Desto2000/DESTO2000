@@ -1,9 +1,6 @@
+<img class="image" align="center" width="1024px" src="rustplayground2.png" alt="Crap" />
+
 <h1 align="center">DESTO</h1>
-
-<link rel="stylesheet" href="css/style.css" />
-
-<a href="https://docs.tortiy.tk" id="button">Docs</a>
-<a href="https://forms.gle/GKpGL5cFGSjZ14H98" id="button">Form</a>
 
 <div class="statics" id="statics">
    <p align="center">
