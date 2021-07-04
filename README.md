@@ -1,5 +1,7 @@
 <h1 align="center">DESTO</h1>
 
+<link rel="stylesheet" href="css/style.css" />
+
 <a href="https://docs.tortiy.tk" id="button">Docs</a>
 <a href="https://forms.gle/GKpGL5cFGSjZ14H98" id="button">Form</a>
 
