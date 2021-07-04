@@ -1,0 +1,16 @@
+#button {
+  color: white;
+  padding: 1.1em 2.8em 1.1em;
+  margin: 0;
+  border-bottom-style: solid;
+  border-bottom-width: 1.2px;
+  border-bottom-color: rgba(255, 255, 255, 0);
+}
+#button:hover {
+  color: #d6d6d6;
+}
+#container {
+  margin: auto;
+  padding-left: 15px;
+  padding-right: 15px;
+}
