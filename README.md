@@ -1,14 +1,11 @@
-<h1 align="center">DESTO</h1>
+**A 14-year-old software developer with four years of experience**, passionate about continuous learning and staying up-to-date with the latest technologies. Proficient in programming languages such as **Python, Go, Rust, and C++**, **specializing in network services development, machine learning, and database technologies.**
 
-<div class="statics" id="statics">
-   <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=desto2000&theme=dark&show_icons=true"></img>
-   </p>
-</div>
+Throughout the journey, **valuable expertise has been acquired in network services and database management**, among other areas. Additionally, skills have been developed in building and training machine learning models, currently focused on pursuing certifications and expanding knowledge of emerging technologies.
 
+## Specialties:
 
-<div class="statics" id="statics">
-   <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DESTO2000&theme=dark&amp;layout=compact" alt="DESTO2000 Most Used Languages">
-   </p>
-</div>
+- Network Services Development
+- Machine Learning
+- Database Technologies
+
+**Dedicated to pursuing a successful career and continuously showcasing skills. Enthusiastic about connecting with professionals in the software development industry and exploring collaborative opportunities to contribute to technological advancements.**
